@@ -1,0 +1,4502 @@
+[
+  {
+    "frame_id": "frame_00000",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 0.53,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00001",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 2.19,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00002",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 0.88,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00003",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 2.54,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00004",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 2.64,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00005",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 2.05,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00006",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 0.89,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00007",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 8.43,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00008",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 8.64,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00009",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 2.77,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00010",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 1.88,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00011",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 0.73,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00012",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 2.38,
+    "voice_output": "Cyclist on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00013",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 2.57,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00014",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 1.62,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00015",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 9.15,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00016",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 2.35,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00017",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 2.11,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00018",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 2.74,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00019",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 1.84,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00020",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 0.46,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00021",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 3.76,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00022",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 1.76,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00023",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 9.48,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00024",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 2.88,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00025",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 0.45,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00026",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 2.12,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00027",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 1.71,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00028",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 2.81,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00029",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 0.49,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00030",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 2.07,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00031",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 1.79,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00032",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 2.74,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00033",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 0.5,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00034",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 2.82,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00035",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 4.47,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00036",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 2.81,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00037",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 8.68,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00038",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 2.43,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00039",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 2.45,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00040",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 2.03,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00041",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 1.02,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00042",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 0.81,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00043",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 3.01,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00044",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 1.67,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00045",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 2.74,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00046",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 1.56,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00047",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 0.84,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00048",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 2.16,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00049",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 4.53,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00050",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 1.91,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00051",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 0.95,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00052",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 0.92,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00053",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 3.45,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00054",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 1.25,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00055",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 9.67,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00056",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 2.13,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00057",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 8.88,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00058",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 6.74,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00059",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 1.32,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00060",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 1.57,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00061",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 5.45,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00062",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 7.56,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00063",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 4.4,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00064",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 0.99,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00065",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 2.13,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00066",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 1.11,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00067",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 6.96,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00068",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 2.21,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00069",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 2.27,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00070",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 2.1,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00071",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 1.91,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00072",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 1.59,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00073",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 1.3,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00074",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 0.82,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00075",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 9.66,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00076",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 2.21,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00077",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 0.58,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00078",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 2.15,
+    "voice_output": "Cyclist on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00079",
+    "camera_source": "left",
+    "detected_class": "person",
+    "distance_m": 2.44,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00080",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 5.66,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00081",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 1.79,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00082",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 1.89,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00083",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 1.13,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00084",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 0.37,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00085",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 8.85,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00086",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 7.71,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00087",
+    "camera_source": "right",
+    "detected_class": "cyclist",
+    "distance_m": 1.48,
+    "voice_output": "Cyclist on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00088",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 6.29,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00089",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 2.5,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00090",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 2.97,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00091",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 0.85,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00092",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 6.07,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00093",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 2.57,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00094",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 2.55,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00095",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 0.49,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00096",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 1.62,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00097",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 1.41,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00098",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 7.94,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00099",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 0.57,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00100",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 0.52,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00101",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 9.02,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00102",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 7.39,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00103",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 3.25,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00104",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 2.66,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00105",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 0.69,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00106",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 1.64,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00107",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 2.13,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00108",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 1.12,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00109",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 3.75,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00110",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 2.64,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00111",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 8.22,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00112",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 4.61,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00113",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 0.67,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00114",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 7.52,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00115",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 3.23,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00116",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 3.63,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00117",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 1.6,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00118",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 5.37,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00119",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 1.37,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00120",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 0.93,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00121",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 1.12,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00122",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 0.67,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00123",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 0.89,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00124",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 8.99,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00125",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 5.57,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00126",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 0.87,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00127",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 1.8,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00128",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 4.63,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00129",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 7.17,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00130",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 4.01,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00131",
+    "camera_source": "left",
+    "detected_class": "person",
+    "distance_m": 0.94,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00132",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 1.51,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00133",
+    "camera_source": "right",
+    "detected_class": "cyclist",
+    "distance_m": 2.64,
+    "voice_output": "Cyclist on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00134",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 2.22,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00135",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 1.78,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00136",
+    "camera_source": "right",
+    "detected_class": "cyclist",
+    "distance_m": 2.07,
+    "voice_output": "Cyclist on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00137",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 1.45,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00138",
+    "camera_source": "right",
+    "detected_class": "cyclist",
+    "distance_m": 2.29,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00139",
+    "camera_source": "left",
+    "detected_class": "person",
+    "distance_m": 2.77,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00140",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 7.2,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00141",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 1.29,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00142",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 1.04,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00143",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 5.46,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00144",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 6.96,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00145",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 1.3,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00146",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 6.97,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00147",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 4.09,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00148",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 2.34,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00149",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 0.9,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00150",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 1.64,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00151",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 0.51,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00152",
+    "camera_source": "right",
+    "detected_class": "cyclist",
+    "distance_m": 0.59,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00153",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 0.51,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00154",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 0.58,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00155",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 2.35,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00156",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 1.04,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00157",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 2.04,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00158",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 0.47,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00159",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 8.86,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00160",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 0.73,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00161",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 5.71,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00162",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 2.25,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00163",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 2.21,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00164",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 1.13,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00165",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 2.09,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00166",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 2.25,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00167",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 0.95,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00168",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 4.36,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00169",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 1.93,
+    "voice_output": "Cyclist on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00170",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 2.54,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00171",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 4.55,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00172",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 9.51,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00173",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 0.57,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00174",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 3.96,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00175",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 6.31,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00176",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 6.28,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00177",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 3.13,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00178",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 6.84,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00179",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 1.53,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00180",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 6.5,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00181",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 0.81,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00182",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 0.35,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00183",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 1.77,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00184",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 7.79,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00185",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 2.44,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00186",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 2.05,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00187",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 1.49,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00188",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 0.52,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00189",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 1.5,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00190",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 2.02,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00191",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 0.48,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00192",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 0.51,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00193",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 2.2,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00194",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 5.0,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00195",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 2.14,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00196",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 2.8,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00197",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 6.56,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00198",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 8.54,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00199",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 3.18,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00200",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 1.59,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00201",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 8.76,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00202",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 2.41,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00203",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 3.9,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00204",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 6.63,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00205",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 0.98,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00206",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 0.72,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00207",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 6.95,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00208",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 1.99,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00209",
+    "camera_source": "right",
+    "detected_class": "cyclist",
+    "distance_m": 2.16,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00210",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 1.16,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00211",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 1.86,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00212",
+    "camera_source": "right",
+    "detected_class": "cyclist",
+    "distance_m": 0.54,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00213",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 2.58,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00214",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 1.29,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00215",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 1.06,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00216",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 0.69,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00217",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 1.94,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00218",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 1.67,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00219",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 5.1,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00220",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 0.37,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00221",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 2.57,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00222",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 4.7,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00223",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 0.67,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00224",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 2.17,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00225",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 1.08,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00226",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 2.51,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00227",
+    "camera_source": "left",
+    "detected_class": "person",
+    "distance_m": 0.85,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00228",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 7.87,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00229",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 0.57,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00230",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 3.7,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00231",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 2.34,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00232",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 0.4,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00233",
+    "camera_source": "left",
+    "detected_class": "person",
+    "distance_m": 2.9,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00234",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 3.06,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00235",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 5.35,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00236",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 6.8,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00237",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 3.94,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00238",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 2.29,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00239",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 1.19,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00240",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 1.51,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00241",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 5.11,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00242",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 1.66,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00243",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 2.32,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00244",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 0.51,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00245",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 2.14,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00246",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 0.31,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00247",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 0.49,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00248",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 1.32,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00249",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 2.94,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00250",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 9.85,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00251",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 1.43,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00252",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 0.96,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00253",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 1.08,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00254",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 1.11,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00255",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 1.33,
+    "voice_output": "Cyclist on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00256",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 1.82,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00257",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 2.59,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00258",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 0.81,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00259",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 0.62,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00260",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 7.87,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00261",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 1.13,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00262",
+    "camera_source": "right",
+    "detected_class": "cyclist",
+    "distance_m": 0.69,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00263",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 1.62,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00264",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 2.97,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00265",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 2.21,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00266",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 2.25,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00267",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 2.89,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00268",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 2.35,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00269",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 2.72,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00270",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 0.86,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00271",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 7.99,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00272",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 5.09,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00273",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 2.56,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00274",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 1.33,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00275",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 7.99,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00276",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 1.46,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00277",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 0.33,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00278",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 1.33,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00279",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 2.41,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00280",
+    "camera_source": "right",
+    "detected_class": "cyclist",
+    "distance_m": 2.86,
+    "voice_output": "Cyclist on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00281",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 5.66,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00282",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 2.01,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00283",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 0.79,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00284",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 6.23,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00285",
+    "camera_source": "left",
+    "detected_class": "person",
+    "distance_m": 2.01,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00286",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 1.38,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00287",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 2.09,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00288",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 2.91,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00289",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 0.9,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00290",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 0.53,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00291",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 2.25,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00292",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 2.13,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00293",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 8.18,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00294",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 0.8,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00295",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 2.33,
+    "voice_output": "Cyclist on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00296",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 1.72,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00297",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 0.94,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00298",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 1.61,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00299",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 1.82,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00300",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 1.53,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00301",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 2.52,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00302",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 6.09,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00303",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 3.72,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00304",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 0.62,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00305",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 0.86,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00306",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 1.02,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00307",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 1.36,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00308",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 1.39,
+    "voice_output": "Cyclist on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00309",
+    "camera_source": "right",
+    "detected_class": "cyclist",
+    "distance_m": 2.28,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00310",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 1.64,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00311",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 5.36,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00312",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 2.98,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00313",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 0.98,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00314",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 2.07,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00315",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 0.49,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00316",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 2.33,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00317",
+    "camera_source": "left",
+    "detected_class": "person",
+    "distance_m": 2.25,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00318",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 7.31,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00319",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 3.61,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00320",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 0.97,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00321",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 1.68,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00322",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 1.73,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00323",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 9.54,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00324",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 0.46,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00325",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 0.72,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00326",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 0.53,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00327",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 0.67,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00328",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 2.32,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00329",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 3.83,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00330",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 1.29,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00331",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 9.26,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00332",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 2.78,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00333",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 9.0,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00334",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 0.62,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00335",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 1.18,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00336",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 1.9,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00337",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 8.43,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00338",
+    "camera_source": "left",
+    "detected_class": "person",
+    "distance_m": 0.58,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00339",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 1.7,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00340",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 1.83,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00341",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 2.55,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00342",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 0.72,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00343",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 1.55,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00344",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 0.97,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00345",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 1.52,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00346",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 0.83,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00347",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 0.83,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00348",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 3.64,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00349",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 1.04,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00350",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 3.24,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00351",
+    "camera_source": "left",
+    "detected_class": "cyclist",
+    "distance_m": 2.47,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00352",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 8.47,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00353",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 2.48,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00354",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 2.78,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00355",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 9.63,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00356",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 1.9,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00357",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 6.95,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00358",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 8.67,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00359",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 1.59,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00360",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 4.41,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00361",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 0.6,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00362",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 5.62,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00363",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 2.03,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00364",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 1.89,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00365",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 2.6,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00366",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 2.31,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00367",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 2.27,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00368",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 0.3,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00369",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 0.91,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00370",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 2.7,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00371",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 6.83,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00372",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 2.25,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00373",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 0.45,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00374",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 2.94,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00375",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 5.16,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00376",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 0.8,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00377",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 1.89,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00378",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 8.73,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00379",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 7.81,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00380",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 1.84,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00381",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 1.99,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00382",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 1.54,
+    "voice_output": "Person on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00383",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 7.36,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00384",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 0.59,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00385",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 9.07,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00386",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 4.85,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00387",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 2.31,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00388",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 3.14,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00389",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 0.87,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00390",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 8.32,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00391",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 6.61,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00392",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 2.2,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00393",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 1.24,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00394",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 4.81,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00395",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 2.41,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00396",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 1.12,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00397",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 2.58,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00398",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 1.18,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00399",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 2.47,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00400",
+    "camera_source": "back",
+    "detected_class": "person",
+    "distance_m": 1.35,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00401",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 2.75,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00402",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 2.48,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00403",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 9.3,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00404",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 1.55,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00405",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 1.11,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00406",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 4.06,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00407",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 2.39,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00408",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 1.33,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00409",
+    "camera_source": "front",
+    "detected_class": "person",
+    "distance_m": 0.31,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00410",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 2.52,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00411",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 6.19,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00412",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 2.75,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00413",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 2.22,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00414",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 2.56,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00415",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 1.94,
+    "voice_output": "Cyclist on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00416",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 0.84,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00417",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 8.82,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00418",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 2.56,
+    "voice_output": "Animal on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00419",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 1.53,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00420",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 2.13,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00421",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 3.66,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00422",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 2.28,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00423",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 4.28,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00424",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 0.73,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00425",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 6.38,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00426",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 0.47,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00427",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 2.26,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00428",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 2.33,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00429",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 0.51,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00430",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 6.14,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00431",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 1.78,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00432",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 9.74,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00433",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 6.94,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00434",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 5.54,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00435",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 8.91,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00436",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 1.31,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00437",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 1.95,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00438",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 2.71,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00439",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 1.88,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00440",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 2.68,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00441",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 9.41,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00442",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 2.32,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00443",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 6.83,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00444",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 9.55,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00445",
+    "camera_source": "left",
+    "detected_class": "animal",
+    "distance_m": 0.78,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00446",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 8.33,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00447",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 2.42,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00448",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 2.5,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00449",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 2.17,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00450",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 5.71,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00451",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 3.38,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00452",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 1.51,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00453",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 0.73,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00454",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 0.5,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00455",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 0.55,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00456",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 7.64,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00457",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 0.32,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00458",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 1.34,
+    "voice_output": "Person on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00459",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 0.82,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00460",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 4.17,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00461",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 2.2,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00462",
+    "camera_source": "back",
+    "detected_class": "vehicle",
+    "distance_m": 0.78,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00463",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 1.35,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00464",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 1.08,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00465",
+    "camera_source": "right",
+    "detected_class": "cyclist",
+    "distance_m": 0.89,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00466",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 8.95,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00467",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 4.01,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00468",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 3.08,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00469",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 2.32,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00470",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 2.11,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00471",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 9.53,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00472",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 2.87,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00473",
+    "camera_source": "right",
+    "detected_class": "person",
+    "distance_m": 1.19,
+    "voice_output": "Person on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00474",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 1.15,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00475",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 7.49,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00476",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 3.94,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00477",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 6.24,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00478",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 6.41,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00479",
+    "camera_source": "front",
+    "detected_class": "animal",
+    "distance_m": 2.69,
+    "voice_output": "Animal on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00480",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 9.24,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00481",
+    "camera_source": "front",
+    "detected_class": "none",
+    "distance_m": 7.05,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00482",
+    "camera_source": "left",
+    "detected_class": "none",
+    "distance_m": 6.86,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00483",
+    "camera_source": "back",
+    "detected_class": "animal",
+    "distance_m": 0.66,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00484",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 1.69,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00485",
+    "camera_source": "back",
+    "detected_class": "cyclist",
+    "distance_m": 1.01,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00486",
+    "camera_source": "left",
+    "detected_class": "obstacle",
+    "distance_m": 0.43,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00487",
+    "camera_source": "right",
+    "detected_class": "animal",
+    "distance_m": 1.89,
+    "voice_output": "Animal on center",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00488",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 0.92,
+    "voice_output": "Stop",
+    "haptic_feedback": "Both Feet Vibration",
+    "navigation_decision": "stop"
+  },
+  {
+    "frame_id": "frame_00489",
+    "camera_source": "right",
+    "detected_class": "vehicle",
+    "distance_m": 2.49,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00490",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 2.71,
+    "voice_output": "Cyclist on left",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00491",
+    "camera_source": "left",
+    "detected_class": "vehicle",
+    "distance_m": 2.67,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00492",
+    "camera_source": "right",
+    "detected_class": "none",
+    "distance_m": 4.52,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00493",
+    "camera_source": "back",
+    "detected_class": "none",
+    "distance_m": 4.19,
+    "voice_output": "Go forward",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00494",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 1.52,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00495",
+    "camera_source": "front",
+    "detected_class": "vehicle",
+    "distance_m": 1.92,
+    "voice_output": "Vehicle approaching",
+    "haptic_feedback": "Left Vibration",
+    "navigation_decision": "turn_left"
+  },
+  {
+    "frame_id": "frame_00496",
+    "camera_source": "front",
+    "detected_class": "obstacle",
+    "distance_m": 1.47,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00497",
+    "camera_source": "back",
+    "detected_class": "obstacle",
+    "distance_m": 1.25,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  },
+  {
+    "frame_id": "frame_00498",
+    "camera_source": "front",
+    "detected_class": "cyclist",
+    "distance_m": 1.77,
+    "voice_output": "Cyclist on right",
+    "haptic_feedback": "Right Vibration",
+    "navigation_decision": "turn_right"
+  },
+  {
+    "frame_id": "frame_00499",
+    "camera_source": "right",
+    "detected_class": "obstacle",
+    "distance_m": 2.47,
+    "voice_output": "Obstacle ahead",
+    "haptic_feedback": "No Vibration",
+    "navigation_decision": "forward"
+  }
+]

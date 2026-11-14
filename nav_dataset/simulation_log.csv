@@ -1,0 +1,2 @@
+frame_id,camera,detected_class,distance_m,decision,voice_output,haptic_feedback
+frame_00000,front,vehicle,0.53,stop,Stop,Both Feet Vibration
